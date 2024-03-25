@@ -1,30 +1,25 @@
-# A Propos de moi 👋
+# About Me 👋
 
+- 🌱 I'm currently studying at DIGITAL CAMPUS in Dakar where I'm studying digital, specifically the field of DESIGN AND DEVELOPMENT OF DIGITAL SOLUTIONS at the Bachelor's Degree N1 level. I speak French and English at the moment.
+- 👯  I'm looking to meet people who are in the same sector as me and collaborate on projects to showcase my skills and be competitive in the job market in Africa, Europe, and anywhere my skills are needed.
+- 🤔  I will also need help and support from developers.
+- 📫 You can contact me by email at: joel-gaetan.hassam@ism.edu.sn or WhatsApp: +221 77 202 04 30.
+- 😄  Sometimes people call me JOJO.
+- ⚡ And I am very passionate about music, religion, the environment, and drawing.
 
-<!--**joel-gaetan-hassam-obah/Joel-Gaetan-Hassam-Obah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## MY SKILLS 🧾
+ Right now, I'm not yet a total pro in my field but I already have some skills that can help me collaborate on projects like. So, I can classify the skills I already have and those I'm currently working on into two categories.
 
-Here are some ideas to get you started:-->
-
-- 🌱 Je poursuis mes études préentement à DIGITAL CAMPUS de Dakar où j'étudies le digital et précisement la filière de CONCEPTION ET DEVELOPPEMENT DE SOLUTION DIGITALES niveau Bachelor DEGREE N1..Je parles Français et Anglais pour le moment.
-- 👯 Je cherches à rencontrer des personnes qui sont dans le meme secteur que moi et à collaborer dans des projets afin de mettre en valeur mes compétences et etre compétitif dans le marché de l'emploi en Afrique, En EUROPE et partout où mes compétences peuvent etre attendues ...
-- 🤔 J'aurai aussi besoin d'aide et de soutien de developpeurs.
-- 📫 Vous pouvez me contater par mail au : joel-gaetan.hassam@ism.edu.sn ou WhatsApp : +221 77 202 04 30.
-- 😄 On m'appele des fois JOJO
-- ⚡ Et je suis beaucoup passionée par la musique, la réligion, l'environnement et le Dessin.
-
-  ## MES COMPETENCES 🧾
- Présentement je ne suis pas encore très expert dans mon domaine mais j'ai déjà quelques compétences qui peuvent me permettre de collaborer sur des projets tels que. Ainsi, je pourrai classer en deux catégories les compétences déjà acquise et celles en cours d'acquisitions.
-
- ### LES COMPETENCES DEJA ACQUISE
+ ### SKILLS ALREADY ACQUIRED
 - HTML & CSS
-- Langage C
-- Algorithmique & Architecture des données..
+- C Language
+- Algorithms & Data Architecture
 - Wordpress
 
-### LES COMPETENCES EN COURS D'ACUISITION
+### SKILLS BEING ACQUIRED
 - Javascript
 - Python
 - Bootstrap/Saas/Less
-- Data visualisation
+- Data visualization
 
 
