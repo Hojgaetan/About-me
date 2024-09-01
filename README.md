@@ -12,14 +12,16 @@
 
  ### SKILLS ALREADY ACQUIRED
 - HTML & CSS
+- Bootstrap/Saas/Less
 - C Language
 - Algorithms & Data Architecture
 - Wordpress
+- Python
+- Django
 
 ### SKILLS BEING ACQUIRED
-- Javascript
-- Python
-- Bootstrap/Saas/Less
+- Javascript/Jquerry
+- sql
 - Data visualization
 
 
